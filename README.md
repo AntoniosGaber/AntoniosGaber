@@ -1,3 +1,9 @@
+## Hi there 👋
+
+<!--
+**AntoniosGaber/AntoniosGaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Antonios%20Gaber%20🚀&fontColor=ffffff&fontSize=35&animation=fadeIn" width="100%"/>
 
 <p align="right">
@@ -22,6 +28,20 @@ Ich bin leidenschaftlich daran interessiert, sauberen, responsiven und interakti
 Nach dem Abschluss des **Frontend-Webentwicklungskurses bei Route Academy**  
 habe ich meine Kenntnisse im **Backend-JavaScript** vertieft und mehrere IT- und Software-Zertifikate in Deutschland (IBB / Viona) erworben.  
 Mein Ziel ist es, moderne, performante und benutzerfreundliche Webanwendungen zu entwickeln, die echten Mehrwert bieten.
+
+---
+
+## 🚀 Meine Projekte  
+
+### 🟢 [To-Do List App](https://antoniosgaber.github.io/todo-list/)
+Eine einfache, responsive Aufgabenverwaltungs-App mit HTML, CSS (Bootstrap) und JavaScript.  
+✅ Aufgaben hinzufügen, löschen und filtern – Daten werden im LocalStorage gespeichert.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/todo-list)
+
+### 🟣 [Quiz App](https://antoniosgaber.github.io/QuizApp/)
+Ein interaktives JavaScript-Quiz mit Punktestand und visueller Rückmeldung.  
+🎯 Dynamisches Feedback basierend auf richtigen Antworten.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/QuizApp)
 
 ---
 
@@ -87,10 +107,8 @@ Mein Ziel ist es, moderne, performante und benutzerfreundliche Webanwendungen zu
 ## 📫 Kontakt
 - 📍 Lörrach, Deutschland  
 - ✉️ **antonios.gaber@web.de**  
-- 🔗 [LinkedIn-Profil](#)  
-- 💻 [GitHub-Portfolio](#)
-
----
+- 🔗 [LinkedIn-Profil](https://www.linkedin.com/)  
+- 💻 [GitHub-Portfolio](https://github.com/AntoniosGaber)
 
 ---
 
@@ -104,6 +122,20 @@ I have over one year of experience as an **IT Helpdesk Specialist** and am now p
 
 ---
 
+## 🚀 My Projects  
+
+### 🟢 [To-Do List App](https://antoniosgaber.github.io/todo-list/)
+A simple, responsive To-Do List app built with HTML, CSS (Bootstrap), and JavaScript.  
+✅ Add, delete, and filter tasks – data saved in LocalStorage.  
+🔗 [View Repository](https://github.com/AntoniosGaber/todo-list)
+
+### 🟣 [Quiz App](https://antoniosgaber.github.io/QuizApp/)
+An interactive JavaScript quiz that shows score and feedback dynamically.  
+🎯 Built with clean, responsive design.  
+🔗 [View Repository](https://github.com/AntoniosGaber/QuizApp)
+
+---
+
 ## 💻 About Me
 I’m passionate about writing clean, responsive, and interactive code.  
 After completing the **Frontend Web Development course at Route Academy**,  
@@ -112,70 +144,11 @@ My goal is to develop modern, high-performance, and user-friendly web applicatio
 
 ---
 
-## 🎓 Education & Certificates
-- 🎓 **Bachelor’s Degree in Management Information Systems (MIS)**  
-  Recognized in Germany as a **Bachelor’s Degree** *(KMK ZAB – ENIC-NARIC Germany)*  
-- 💻 **Frontend Development – Route Academy**  
-  *(HTML, CSS, JavaScript ES6, React JS, Redux Toolkit, Tailwind CSS, Bootstrap 5, APIs)*  
-- 💻 **Fundamentals of Software Development – IBB / Viona (2025)**  
-  *(Introduction to Programming, C++ Basics, Java Basics, Software Logic & Algorithms)*  
-- 💻 **CompTIA Network & Computer Basics – IBB / Viona (2025)**  
-  *(Networking Fundamentals, Hardware & Software Concepts, IT Security & Operating Systems)*  
-- 🧠 **Business-Oriented German for Career & Communication – B2.1 & B2.2 (IBB / Viona, 2025)**  
-
----
-
-## ⚙️ Technical Skills
-- **Frontend:** HTML5 / CSS3 / JavaScript (ES6+)  
-- **Frameworks:** React JS / Redux Toolkit / Tailwind CSS / Bootstrap 5  
-- **Tools & Libraries:** Axios / TanStack React Query / Formik / Yup  
-- **Build & Environment:** Git / GitHub / Vite / Next.js (basic knowledge)  
-- **Languages:** TypeScript (basic), Java (basic), C++ (basic)  
-- **Design & Planning:** Figma (UI design & frontend implementation)
-
----
-
-### 🧠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,vite,typescript,git,github,vscode,java,cpp" />
-</p>
-
----
-
-## 🚀 Currently Learning
-- Node.js & Express.js (Backend Development)  
-- MongoDB (Database)  
-- RESTful API Development  
-
----
-
-## 💼 Professional Experience
-- 🖥️ **IT Helpdesk Specialist** – 1 year of experience in technical user support  
-  *(Troubleshooting, system configuration, networking fundamentals, IT assistance)*  
-
----
-
-## 💬 Soft Skills
-- Problem Solving & Debugging  
-- Team Collaboration using Git & GitHub  
-- Agile & Project-Based Work Approach  
-- Self-Learning & Continuous Improvement  
-
----
-
-## 🌍 Languages
-- 🇩🇪 **German** – B2  
-- 🇬🇧 **English** – B2  
-- 🇮🇹 **Italian** – B1  
-- 🇪🇬 **Arabic (Native)**  
-
----
-
 ## 📫 Contact
 - 📍 Lörrach, Germany  
 - ✉️ **antonios.gaber@web.de**  
-- 🔗 [LinkedIn Profile](#)  
-- 💻 [GitHub Portfolio](#)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/)  
+- 💻 [GitHub Portfolio](https://github.com/AntoniosGaber)
 
 ---
 
