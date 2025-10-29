@@ -121,18 +121,70 @@ Open for **Junior Frontend Developer** positions or internships (remote or on-si
 I have over one year of experience as an **IT Helpdesk Specialist** and am now passionately transitioning into web development, focusing on modern JavaScript technologies and clean, responsive code.
 
 ---
+## 🚀 Meine Projekte  
 
-## 🚀 My Projects  
+### 🟢 [Circle Social App](https://circle-next.vercel.app)
+Eine moderne Social-Media-App mit Next.js, TypeScript, MUI und Redux Toolkit.  
+🌍 Live-Demo: [circle-next.vercel.app](https://circle-next.vercel.app)  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/circle)
+
+---
+
+### 🎨 [f-Tailwind Portfolio](https://github.com/AntoniosGaber/f-tailwind-portfolio)
+Mein persönliches Portfolio mit React und Tailwind CSS.  
+🖥️ Präsentiert Projekte, Fähigkeiten und Kontaktdaten.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/f-tailwind-portfolio)
+
+---
+
+### 🍲 [Tasty API Recipes](https://github.com/AntoniosGaber/Tasty-API-Recipes)
+Zeigt Rezepte dynamisch aus einer echten API.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/Tasty-API-Recipes)
+
+---
+
+### ☀️ [Weather App](https://github.com/AntoniosGaber/Weather-App)
+Eine Wetter-App mit API-Integration, die Live-Daten anzeigt.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/Weather-App)
+
+---
+
+### 🍔 [Grub System](https://github.com/AntoniosGaber/Grub-System)
+Ein Mini-Bestellsystem mit interaktiver Benutzeroberfläche.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/Grub-System)
+
+---
+
+### 🖼️ [week11 Gallery](https://github.com/AntoniosGaber/week11-gallery)
+Eine responsive Bildergalerie mit Hover-Effekten.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/week11-gallery)
+
+---
+
+### 🔖 [Bookmark App](https://github.com/AntoniosGaber/bookmark)
+Eine App zum Speichern und Verwalten von Lieblingswebseiten.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/bookmark)
+
+---
 
 ### 🟢 [To-Do List App](https://antoniosgaber.github.io/todo-list/)
-A simple, responsive To-Do List app built with HTML, CSS (Bootstrap), and JavaScript.  
-✅ Add, delete, and filter tasks – data saved in LocalStorage.  
-🔗 [View Repository](https://github.com/AntoniosGaber/todo-list)
+Eine einfache Aufgaben-App mit HTML, CSS und JavaScript.  
+✅ Aufgaben hinzufügen, löschen und filtern – Daten im LocalStorage gespeichert.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/todo-list)
+
+---
 
 ### 🟣 [Quiz App](https://antoniosgaber.github.io/QuizApp/)
-An interactive JavaScript quiz that shows score and feedback dynamically.  
-🎯 Built with clean, responsive design.  
-🔗 [View Repository](https://github.com/AntoniosGaber/QuizApp)
+Ein interaktives JavaScript-Quiz mit Punktestand und visuellem Feedback.  
+🎯 Dynamisches Feedback basierend auf richtigen Antworten.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/QuizApp)
+
+---
+
+### 👨‍💻 [AntoniosGaber Profile](https://github.com/AntoniosGaber/AntoniosGaber)
+Mein persönliches GitHub-Profil – Übersicht aller Projekte.  
+🔗 [Repository ansehen](https://github.com/AntoniosGaber/AntoniosGaber)
+
 
 ---
 
