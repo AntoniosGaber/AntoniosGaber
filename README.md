@@ -1,3 +1,5 @@
+
+
 ## Hi there 👋
 
 <!--
@@ -7,200 +9,161 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Antonios%20Gaber%20🚀&fontColor=ffffff&fontSize=35&animation=fadeIn" width="100%"/>
 
 <p align="right">
-  <a href="#deutsch">🇩🇪 Deutsch</a> |
-  <a href="#english">🇬🇧 English</a>
+  <a href="#deutsch--english">🇩🇪 Deutsch</a> |
+  <a href="#deutsch--english">🇬🇧 English</a>
 </p>
 
 ---
 
-# 🇩🇪 Deutsch
+# 🇩🇪 & 🇬🇧  
+# 👋 Hallo! / Hi there!  
 
-# 👋 Hallo, ich bin Antonios Gaber
-
-🎯 **Junior Frontend-Entwickler** aus Deutschland 🇩🇪  
-Offen für **Junior Frontend Developer** Positionen oder Praktika (remote oder vor Ort).  
-Ich habe über ein Jahr als **IT-Helpdesk-Mitarbeiter** gearbeitet und wechsle nun mit Leidenschaft in die Webentwicklung – mit Fokus auf moderne JavaScript-Technologien und sauberen, responsiven Code.
-
----
-
-## 💻 Über mich
-Ich bin leidenschaftlich daran interessiert, sauberen, responsiven und interaktiven Code zu schreiben.  
-Nach dem Abschluss des **Frontend-Webentwicklungskurses bei Route Academy**  
-habe ich meine Kenntnisse im **Backend-JavaScript** vertieft und mehrere IT- und Software-Zertifikate in Deutschland (IBB / Viona) erworben.  
-Mein Ziel ist es, moderne, performante und benutzerfreundliche Webanwendungen zu entwickeln, die echten Mehrwert bieten.
+Ich bin / I’m **Antonios Gaber** 🚀  
+🎯 **Junior Frontend-Entwickler / Junior Frontend Developer**  
+📍 **Lörrach, Deutschland / Germany**  
 
 ---
 
-## 🚀 Meine Projekte  
+## 💻 Über mich / About Me  
 
-### 🟢 [To-Do List App](https://antoniosgaber.github.io/todo-list/)
-Eine einfache, responsive Aufgabenverwaltungs-App mit HTML, CSS (Bootstrap) und JavaScript.  
-✅ Aufgaben hinzufügen, löschen und filtern – Daten werden im LocalStorage gespeichert.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/todo-list)
+Ich habe über ein Jahr als **IT-Helpdesk-Mitarbeiter** gearbeitet und wechsle nun mit Leidenschaft in die Webentwicklung – mit Fokus auf moderne JavaScript-Technologien und sauberen, responsiven Code.  
+I worked for over a year as an **IT Helpdesk Specialist** and am now fully dedicated to **modern web development**, focusing on **React, TypeScript, and responsive UI design**.  
 
-### 🟣 [Quiz App](https://antoniosgaber.github.io/QuizApp/)
-Ein interaktives JavaScript-Quiz mit Punktestand und visueller Rückmeldung.  
-🎯 Dynamisches Feedback basierend auf richtigen Antworten.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/QuizApp)
+Ich kombiniere technisches Wissen mit Design-Verständnis, um moderne, benutzerfreundliche und performante Webanwendungen zu entwickeln.  
+My passion is to build **real-world, performant, and visually appealing** web applications that deliver measurable value.
 
 ---
 
-## 🎓 Ausbildung & Zertifikate
-- 🎓 **Bachelor in Management Information Systems (MIS)**  
-  In Deutschland als **Bachelorabschluss** anerkannt *(KMK ZAB – ENIC-NARIC Germany)*  
-- 💻 **Frontend Development – Route Academy**  
-  *(HTML, CSS, JavaScript ES6, React JS, Redux Toolkit, Tailwind CSS, Bootstrap 5, APIs)*  
-- 💻 **Grundlagen der Softwareentwicklung – IBB / Viona (2025)**  
-  *(Einführung in die Programmierung, C++ Grundlagen, Java Grundlagen, Softwarelogik und Algorithmen)*  
-- 💻 **CompTIA Network & Computergrundkurs – IBB / Viona (2025)**  
-  *(Grundlagen der Netzwerktechnologien, Hardware- und Softwarekonzepte, IT-Sicherheit und Betriebssysteme)*  
-- 🧠 **Berufsbezogenes Deutsch für Beruf & Karriere – B2.1 & B2.2 (IBB / Viona, 2025)**  
+## 🚀 Projekte / Projects  
+
+| 🔧 Projekt / Project | 💻 Beschreibung / Description | 🌐 Links |
+|----------------------|------------------------------|----------|
+| 🟢 **[Circle Social App](https://circle-next.vercel.app)** | Social Media App mit Next.js, TypeScript, MUI & Redux Toolkit / Full social app with posts, comments & authentication. | [🔗 Repo](https://github.com/AntoniosGaber/circle) · [🌍 Live](https://circle-next.vercel.app) |
+| 🎨 **[f-Tailwind Portfolio](https://github.com/AntoniosGaber/f-tailwind-portfolio)** | Portfolio mit React & Tailwind CSS / Personal developer portfolio. | [🔗 Repo](https://github.com/AntoniosGaber/f-tailwind-portfolio) |
+| 🍲 **[Tasty API Recipes](https://github.com/AntoniosGaber/Tasty-API-Recipes)** | Rezept-App mit externer API / Recipe app fetching real data via REST API. | [🔗 Repo](https://github.com/AntoniosGaber/Tasty-API-Recipes) |
+| ☀️ **[Weather App](https://github.com/AntoniosGaber/Weather-App)** | Live Wetterdaten / Weather forecast app using API data. | [🔗 Repo](https://github.com/AntoniosGaber/Weather-App) |
+| 🍔 **[Grub System](https://github.com/AntoniosGaber/Grub-System)** | Mini-Bestellsystem mit JavaScript & Bootstrap / Mini food ordering system. | [🔗 Repo](https://github.com/AntoniosGaber/Grub-System) |
+| 🖼️ **[Week11 Gallery](https://github.com/AntoniosGaber/week11-gallery)** | Responsive Galerie mit CSS Hover Effekten / Responsive gallery. | [🔗 Repo](https://github.com/AntoniosGaber/week11-gallery) |
+| 🔖 **[Bookmark App](https://github.com/AntoniosGaber/bookmark)** | Verwaltung von Favoriten / Bookmark manager using JS & Bootstrap. | [🔗 Repo](https://github.com/AntoniosGaber/bookmark) |
+| 🟢 **[To-Do List App](https://antoniosgaber.github.io/todo-list/)** | Aufgaben-App / Task manager using LocalStorage. | [🔗 Repo](https://github.com/AntoniosGaber/todo-list) · [🌍 Live](https://antoniosgaber.github.io/todo-list/) |
+| 🟣 **[Quiz App](https://antoniosgaber.github.io/QuizApp/)** | Interaktives Quiz / Interactive JS quiz with feedback. | [🔗 Repo](https://github.com/AntoniosGaber/QuizApp) · [🌍 Live](https://antoniosgaber.github.io/QuizApp/) |
 
 ---
 
-## ⚙️ Technische Kenntnisse
-- **Frontend:** HTML5 / CSS3 / JavaScript (ES6+)  
-- **Frameworks:** React JS / Redux Toolkit / Tailwind CSS / Bootstrap 5  
-- **Tools & Libraries:** Axios / TanStack React Query / Formik / Yup  
-- **Build & Umgebung:** Git / GitHub / Vite / Next.js (Grundkenntnisse)  
-- **Programmiersprachen:** TypeScript (Grundkenntnisse), Java (Grundlagen), C++ (Grundlagen)  
-- **Design & Planung:** Figma (UI-Design & Frontend-Implementierung)
+## 🎓 Ausbildung & Zertifikate / Education & Certificates  
+
+🎓 **Bachelor in Management Information Systems (MIS)**  
+*(KMK-ZAB / ENIC-NARIC Germany recognized)*  
+
+💻 **Frontend Development – Route Academy**  
+HTML5, CSS3, Sass, JavaScript (ES6+), React.js, Redux Toolkit, Tailwind CSS, Bootstrap 5, APIs  
+
+💻 **Grundlagen der Softwareentwicklung – IBB / Viona (2025)**  
+C++, Java, Algorithmen, Datenstrukturen  
+
+💻 **CompTIA Network+ & Computergrundkurs – IBB / Viona (2025)**  
+IT-Sicherheit, Netzwerke, Hardware, Software  
+
+🧠 **Berufsbezogenes Deutsch – B2.1 & B2.2 (IBB / Viona, 2025)**  
 
 ---
 
-### 🧠 Tech Stack
+## 💻 Technical Skills (Based on Route Academy & IBB Training)
+
+🧱 **Front-End Development**
+- HTML5 / CSS3 / Sass / JavaScript (ES6+)
+- Responsive Design (Flexbox, Grid, Media Queries)
+- Bootstrap 5 / Tailwind CSS
+- API Integration (Fetch, Axios)
+
+⚛ **React Ecosystem**
+- React JS (Hooks, Components, Props, State)
+- React Router DOM (Routing & Nested Routes)
+- Context API & Redux Toolkit (State Management)
+- Axios / Fetch API / TanStack React Query
+- Formik + Yup Validation (Forms & Auth)
+- Lazy Loading / React Helmet / useRef
+- Deployment on Vercel / Netlify
+
+🧰 **Tools & Environment**
+- Git / GitHub (Version Control)
+- VS Code / npm / Vite / Next.js (Basics)
+- TypeScript (Basic to Intermediate Level)
+- Figma (UI Review & Frontend Implementation)
+
+🌐 **Soft Skills**
+- Problem Solving & Debugging
+- Team Collaboration using Git & GitHub
+- Agile & Project-Oriented Workflow
+- Self-Learning & Continuous Improvement
+
+> 💡 **Professional Tip (for Germany / Europe Applications)**  
+> You can list these skills under *“Technische Kenntnisse”* in your CV:  
+>  
+> `React JS, JavaScript (ES6), HTML5, CSS3, Sass, Tailwind, Bootstrap, Redux Toolkit, Axios, Git, Vite, Next.js (Grundkenntnisse)`
+
+---
+
+## ⚙️ Additional Technical Overview  
+
+🧩 **Libraries:** Axios · React Query · Formik · Yup  
+🧰 **Build Tools:** Vite · npm · Node.js  
+📘 **Languages:** TypeScript · Java · C++  
+🎨 **Design:** Figma  
+
+---
+
+### 🧠 Tech Stack  
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,vite,typescript,git,github,vscode,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,redux,tailwind,bootstrap,vite,typescript,git,github,vscode,java,cpp,nodejs,mongodb" />
 </p>
 
 ---
 
-## 🚀 Aktuell in Ausbildung
-- Node.js & Express.js (Backend-Entwicklung)  
-- MongoDB (Datenbank)  
-- RESTful API-Entwicklung  
+## 🚀 Aktuell in Ausbildung / Currently in Training  
+
+- 🟢 Node.js & Express.js (Backend Development)  
+- 🟣 MongoDB (Database)  
+- 🧩 RESTful API Design  
+- 🔷 TypeScript Advanced  
+- 🧠 Full-Stack JavaScript (MERN)  
 
 ---
 
-## 💼 Berufserfahrung
-- 🖥️ **IT-Helpdesk-Mitarbeiter** – 1 Jahr Erfahrung in der technischen Benutzerunterstützung  
-  *(Fehlerdiagnose, Systemkonfiguration, Netzwerkgrundlagen, IT-Support)*  
+## 💼 Berufserfahrung / Experience  
+
+🖥️ **IT-Helpdesk-Mitarbeiter / IT Helpdesk Specialist** – 1 Jahr / 1 year  
+🔧 Technischer Support, Fehlerdiagnose, Systemkonfiguration und IT-Unterstützung  
+🧰 Responsible for troubleshooting, software installation, and network setup for clients.  
 
 ---
 
-## 💬 Soft Skills
-- Problemlösung & Debugging  
-- Teamarbeit mit Git & GitHub  
-- Agile Arbeitsweise & projektbasiertes Lernen  
-- Selbstständiges Lernen & kontinuierliche Weiterentwicklung  
+## 💬 Soft Skills  
+
+✅ Analytisches Denken / Analytical Thinking  
+🤝 Teamarbeit & Git Collaboration  
+🚀 Agile & projektorientiertes Arbeiten / Agile & Project-based workflow  
+📚 Selbstständiges Lernen & Motivation / Self-learning & Growth mindset  
+💡 Lösungsorientiert & kreativ / Problem-solver & creative  
 
 ---
 
-## 🌍 Sprachen
-- 🇩🇪 **Deutsch** – B2  
-- 🇬🇧 **Englisch** – B2  
-- 🇮🇹 **Italienisch** – B1  
-- 🇪🇬 **Arabisch (Muttersprache)**  
+## 🌍 Sprachen / Languages  
+
+🇩🇪 Deutsch – B2  
+🇬🇧 Englisch – B2  
+🇮🇹 Italienisch – B1  
+🇪🇬 Arabisch – Muttersprache / Native  
 
 ---
 
-## 📫 Kontakt
-- 📍 Lörrach, Deutschland  
-- ✉️ **antonios.gaber@web.de**  
-- 🔗 [LinkedIn-Profil](https://www.linkedin.com/)  
-- 💻 [GitHub-Portfolio](https://github.com/AntoniosGaber)
+## 📫 Kontakt / Contact  
 
----
-
-# 🇬🇧 English
-
-# 👋 Hi, I’m Antonios Gaber
-
-🎯 **Junior Frontend Developer** based in Germany 🇩🇪  
-Open for **Junior Frontend Developer** positions or internships (remote or on-site).  
-I have over one year of experience as an **IT Helpdesk Specialist** and am now passionately transitioning into web development, focusing on modern JavaScript technologies and clean, responsive code.
-
----
-## 🚀 Meine Projekte  
-
-### 🟢 [Circle Social App](https://circle-next.vercel.app)
-Eine moderne Social-Media-App mit Next.js, TypeScript, MUI und Redux Toolkit.  
-🌍 Live-Demo: [circle-next.vercel.app](https://circle-next.vercel.app)  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/circle)
-
----
-
-### 🎨 [f-Tailwind Portfolio](https://github.com/AntoniosGaber/f-tailwind-portfolio)
-Mein persönliches Portfolio mit React und Tailwind CSS.  
-🖥️ Präsentiert Projekte, Fähigkeiten und Kontaktdaten.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/f-tailwind-portfolio)
-
----
-
-### 🍲 [Tasty API Recipes](https://github.com/AntoniosGaber/Tasty-API-Recipes)
-Zeigt Rezepte dynamisch aus einer echten API.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/Tasty-API-Recipes)
-
----
-
-### ☀️ [Weather App](https://github.com/AntoniosGaber/Weather-App)
-Eine Wetter-App mit API-Integration, die Live-Daten anzeigt.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/Weather-App)
-
----
-
-### 🍔 [Grub System](https://github.com/AntoniosGaber/Grub-System)
-Ein Mini-Bestellsystem mit interaktiver Benutzeroberfläche.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/Grub-System)
-
----
-
-### 🖼️ [week11 Gallery](https://github.com/AntoniosGaber/week11-gallery)
-Eine responsive Bildergalerie mit Hover-Effekten.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/week11-gallery)
-
----
-
-### 🔖 [Bookmark App](https://github.com/AntoniosGaber/bookmark)
-Eine App zum Speichern und Verwalten von Lieblingswebseiten.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/bookmark)
-
----
-
-### 🟢 [To-Do List App](https://antoniosgaber.github.io/todo-list/)
-Eine einfache Aufgaben-App mit HTML, CSS und JavaScript.  
-✅ Aufgaben hinzufügen, löschen und filtern – Daten im LocalStorage gespeichert.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/todo-list)
-
----
-
-### 🟣 [Quiz App](https://antoniosgaber.github.io/QuizApp/)
-Ein interaktives JavaScript-Quiz mit Punktestand und visuellem Feedback.  
-🎯 Dynamisches Feedback basierend auf richtigen Antworten.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/QuizApp)
-
----
-
-### 👨‍💻 [AntoniosGaber Profile](https://github.com/AntoniosGaber/AntoniosGaber)
-Mein persönliches GitHub-Profil – Übersicht aller Projekte.  
-🔗 [Repository ansehen](https://github.com/AntoniosGaber/AntoniosGaber)
-
-
----
-
-## 💻 About Me
-I’m passionate about writing clean, responsive, and interactive code.  
-After completing the **Frontend Web Development course at Route Academy**,  
-I expanded my skills in **Backend JavaScript** and earned multiple IT and software certificates in Germany (IBB / Viona).  
-My goal is to develop modern, high-performance, and user-friendly web applications that create real value.
-
----
-
-## 📫 Contact
-- 📍 Lörrach, Germany  
-- ✉️ **antonios.gaber@web.de**  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/)  
-- 💻 [GitHub Portfolio](https://github.com/AntoniosGaber)
+📍 **Lörrach, Deutschland / Germany**  
+✉️ **antonios.gaber@web.de**  
+🔗 [LinkedIn](https://www.linkedin.com/)  
+💻 [GitHub Portfolio](https://github.com/AntoniosGaber)
 
 ---
 
