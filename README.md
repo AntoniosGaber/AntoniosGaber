@@ -38,7 +38,7 @@ My passion is to build **real-world, performant, and visually appealing** web ap
 
 | 🔧 Projekt / Project | 💻 Beschreibung / Description | 🌐 Links |
 |----------------------|------------------------------|----------|
-| 🟢 **[Circle Social App](https://circle-next.vercel.app)** | Social Media App mit Next.js, TypeScript, MUI & Redux Toolkit / Full social app with posts, comments & authentication. | [🔗 Repo](https://github.com/AntoniosGaber/circle) · [🌍 Live](https://circle-next.vercel.app) |
+| 
 | 🎨 **[f-Tailwind Portfolio](https://github.com/AntoniosGaber/f-tailwind-portfolio)** | Portfolio mit React & Tailwind CSS / Personal developer portfolio. | [🔗 Repo](https://github.com/AntoniosGaber/f-tailwind-portfolio) |
 | 🍲 **[Tasty API Recipes](https://github.com/AntoniosGaber/Tasty-API-Recipes)** | Rezept-App mit externer API / Recipe app fetching real data via REST API. | [🔗 Repo](https://github.com/AntoniosGaber/Tasty-API-Recipes) |
 | ☀️ **[Weather App](https://github.com/AntoniosGaber/Weather-App)** | Live Wetterdaten / Weather forecast app using API data. | [🔗 Repo](https://github.com/AntoniosGaber/Weather-App) |
